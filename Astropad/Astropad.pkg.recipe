@@ -28,7 +28,7 @@
 				<string>%RECIPE_CACHE_DIR%/%NAME%/Astropad.app</string>
 			</dict>
 			<key>Processor</key>
-			<string>AppPkgCreator</string>
+			<string>PkgCreator</string>
 		</dict>
 	</array>
 </dict>
