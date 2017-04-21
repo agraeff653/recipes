@@ -20,12 +20,15 @@
 		<string>Astropad</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
+        <key>pkg_path</key>
+        <string>%pathname%</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Turn your iPad into a graphics tablet.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
+
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
