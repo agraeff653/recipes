@@ -31,8 +31,8 @@
                         <dict>
                             <key>group</key>
                             <string>admin</string>
-                            <key>path</key>
-                            <string>Applications</string>
+                           <!--<key>path</key>
+                            <string>Applications</string> -->
                             <key>user</key>
                             <string>root</string>
                         </dict>
