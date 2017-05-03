@@ -26,17 +26,17 @@
             <dict>
                 <key>pkg_request</key>
                 <dict>
-                    <key>chown</key>
-                    <array>
+                  <!--  <key>chown</key>
+                   <array>
                         <dict>
                             <key>group</key>
                             <string>admin</string>
-                           <!--<key>path</key>
-                            <string>Applications</string> -->
+                            <key>path</key>
+                            <string>/Astropad/Astropad.app</string>
                             <key>user</key>
                             <string>root</string>
                         </dict>
-                    </array>
+                    </array>-->
                     <key>id</key>
                     <string>%BUNDLE_ID%</string>
                     <key>options</key>
